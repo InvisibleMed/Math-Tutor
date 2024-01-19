@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elementary Math Tutoring</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #0073e6;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Elementary Math Tutoring</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my elementary math tutoring service! I specialize in providing personalized and engaging tutoring
+            for students in grades 1st to 3rd. My goal is to make learning math fun and accessible.</p>
+    </section>
+
+    <section>
+        <h2>Tutoring Services</h2>
+        <p>I offer tutoring for elementary math topics, including addition, subtraction, multiplication, division, and
+            more. Each session is tailored to the student's individual needs, ensuring a supportive learning
+            environment.</p>
+    </section>
+
+    <section>
+        <h2>Contact Me</h2>
+        <p>If you're interested in scheduling a tutoring session or have any questions, feel free to reach out!</p>
+        <p>Email: your.email@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+
+    <footer>
+        &copy; 2024 Elementary Math Tutoring
+    </footer>
+
+</body>
+
+</html>
